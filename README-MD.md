@@ -97,7 +97,7 @@ https://www.baidu.com
 ![二次元](https://www.liusun.top/file/0f8509490eab8d754ca8b.jpg "水神")
 
 ### 14.嵌入代码
-<iframe src="//player.bilibili.com/player.html?aid=327623069&bvid=BV1JA411h7Gw&cid=171385214&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=475479888&auto=1&height=66"></iframe>
 
 
 
