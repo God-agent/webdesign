@@ -50,6 +50,20 @@ Markdown|[HTML](README.md)
 
 - [x] 上山挖笋
 
+### 5.代码块
+'''c
+int main(){
+  return 0;
+  }
+
+### 6.数学公式
+$$
+\frac{\partial f}{\partial x} = 2\sqrt{a}x
+$$
+
+### 7.表格
+
+
 
 
 
