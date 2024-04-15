@@ -102,6 +102,11 @@ https://www.baidu.com
   <iframe src="//player.bilibili.com/player.html?aid=238999609&bvid=BV1Ce411174z&cid=1412207916&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 ```
 
+* 网易云音乐内嵌
+```c
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=475479888&auto=1&height=66"></iframe>
+```
+
 
 
 
