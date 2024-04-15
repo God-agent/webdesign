@@ -104,7 +104,7 @@ https://www.baidu.com
 
 * 网易云音乐内嵌
 ```c
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=475479888&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=530 height=86 src="//music.163.com/outchain/player?type=2&id=569200213&auto=1&height=66"></iframe>
 ```
 
 
