@@ -51,7 +51,7 @@ Markdown|[HTML](README.md)
 - [x] 上山挖笋
 
 ### 5.代码块
-'''c
+''' c
 int main(){
   return 0;
   }
