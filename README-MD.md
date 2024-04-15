@@ -112,9 +112,9 @@ https://www.baidu.com
 
 **加粗**
 
-printf( )
+~~删除线~~
 
-<u> 下划线 </u>
+<u>下划线</u>
 
 :smile:
 
